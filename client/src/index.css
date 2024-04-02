@@ -22,7 +22,7 @@ body {
     linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
     url(bg.jpg);
   background-position: center;
-  background-size: 1680px 920px;
+  background-size: 1680px 1190px;
   color: var(--light);
 }
 
